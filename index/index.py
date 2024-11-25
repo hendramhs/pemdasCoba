@@ -1,2 +1,3 @@
-print("hello world")
-
+print("ITENAS")
+print("hendra darmawan")
+print("aku manusia")
